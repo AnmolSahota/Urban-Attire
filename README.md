@@ -9,7 +9,7 @@ A Collaborative project built by a team of 4 executed in 5 days.
 
 ## Demo  🎥
 
-- Deployed Link:- [Enjoy the Experience](https://cosmic-duckanoo-c53863.netlify.app/)
+- Deployed Link:- [Enjoy the Experience](https://647c08438261886ac0cdbd5a--iridescent-tartufo-59d060.netlify.app/)
 
 
 ## Tech Stack 💻
